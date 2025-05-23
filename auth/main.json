@@ -1,1 +1,7 @@
-
+{
+  "authorized_hwids": [
+    "42a403f63f9b98f"
+  ],
+  "version": "1.0",
+  "maintenance": false
+}
